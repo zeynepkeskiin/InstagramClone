@@ -35,7 +35,7 @@ Users can create an account, log in, upload photos, add descriptions, and view u
 - Android Studio
 
   
-## 📷Ekran Görüntüleri
+## 📷Screenshots
 
 <table>
   <tr>
