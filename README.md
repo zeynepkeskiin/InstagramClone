@@ -32,6 +32,7 @@ Users can create an account, log in, upload photos, add descriptions, and view u
 - Firebase Authentication
 - Firebase Firestore
 - Firebase Storage
+- Android Studio
 
   
 ## 📷Ekran Görüntüleri
